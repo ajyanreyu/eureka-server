@@ -1,5 +1,5 @@
 # eureka-server
-##Simple configuration:
+## Simple configuration:
  ```
      <dependency>
         <groupId>org.springframework.cloud</groupId>
